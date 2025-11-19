@@ -2,7 +2,28 @@
 # Exercise-Algorithm-Flowchart-Draw-io
 
 ## Exercise 1
+A program that:
+- Takes two number
+- Compares them
+- Display the larger number
+- End
 
+  ✔ Pseudocode
+  
+        START
+          INPUT number1
+          INPUT number2
+           IF number1 > number2 THEN
+        DISPLAY number1, "is larger"
+        ELSE IF number2 > number1 THEN
+        DISPLAY number2, "is larger"
+        ELSE
+        DISPLAY "Both numbers are equal"
+        ENDIF
+        END
+
+   ✔ Flowchart
+  
 ![Alt text](images/Diagram1.drawio(1).png)
 
 ## Exercise 2
@@ -29,7 +50,7 @@ A program that:
 
 ![Alt text](images/Diagram2.drawio.png)
 
-## Exercise 4
+## Exercise 3
 
 A program asks the user to enter their age.
 
@@ -54,7 +75,7 @@ A program asks the user to enter their age.
 
 ![Alt text](images/Diagram3.drawio.png)
 
-## Exercise 3
+## Exercise 4
 
  program takes student marks (0–100).
 
@@ -82,8 +103,38 @@ A program asks the user to enter their age.
 
 ![Alt text](Diagram4.drawio.png)
 
+## Exercise 5
 
+A program that:
 
+    Takes A, B, C as inputs
+    Finds the largest
+    Displays result
+    Ends program
+
+✔ Pseudocode
+
+A program that:
+
+    Takes A, B, C as inputs
+    Finds the largest
+    Displays result
+    Ends program
+
+✔ Flowchart
+
+    START
+        INPUT A
+        INPUT B
+        INPUT C
+        IF A >= B AND A >= C THEN
+            PRINT "A is largest"
+        ELSE IF B >= A AND B >= C THEN
+            PRINT "B is largest"
+        ELSE
+            PRINT "C is largest"
+        ENDIF
+    END
 
 ![Alt text](images/Diagram5.drawio.png)
 
