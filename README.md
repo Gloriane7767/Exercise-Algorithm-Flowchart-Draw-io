@@ -18,11 +18,19 @@ A program asks the user to enter their age.
 
 ![Alt text](images/Diagram2.drawio.png)
 
+## Exercise 3
 
 
+✔ **Pseudocode** 
 
+A program takes student marks (0–100).
 
+    90 and above → Grade A
+    75–89 → Grade B
+    50–74 → Grade C
+    Below 50 → Fail
 
+✔ **Flowchart**
 
 ![Alt text](images/Diagram3.drawio.png)
 
