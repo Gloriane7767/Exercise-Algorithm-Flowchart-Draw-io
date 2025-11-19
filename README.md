@@ -2,19 +2,27 @@
 # Exercise-Algorithm-Flowchart-Draw-io
 
 ## Exercise 1
+
 ![Alt text](images/Diagram1.drawio(1).png)
 
 ## Exercise 2
+A program that:
 
-✔ **Pseudocode**
+    Prompts user to enter 5 numbers
+    Keeps a running total
+    Displays the sum
+    Ends program
 
-A program asks the user to enter their age.
+✔ Pseudocode
 
-    If age is 18 or older, display: "You are eligible to vote."
-    If age is less than 18, display: "You are not eligible to vote."
-    End the program.
-
-✔ **Flowchart** 
+    START
+        total = 0
+        REPEAT 5 TIMES
+            INPUT number
+            total = total + number
+        ENDREPEAT
+        PRINT "Total sum = ", total
+    END
 
 ![Alt text](images/Diagram2.drawio.png)
 
@@ -23,12 +31,6 @@ A program asks the user to enter their age.
 
 ✔ **Pseudocode** 
 
-A program takes student marks (0–100).
-
-    90 and above → Grade A
-    75–89 → Grade B
-    50–74 → Grade C
-    Below 50 → Fail
 
 ✔ **Flowchart**
 
