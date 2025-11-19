@@ -29,10 +29,11 @@ A program that:
 ## Exercise 2
 A program that:
 
-    Prompts user to enter 5 numbers
-    Keeps a running total
-    Displays the sum
-    Ends program
+- Prompts user to enter 5 numbers
+- Keeps a running total
+- Displays the sum
+- Ends program
+
 
 ✔ Pseudocode
 
@@ -54,9 +55,12 @@ A program that:
 
 A program asks the user to enter their age.
 
-    If age is 18 or older, display: "You are eligible to vote."
-    If age is less than 18, display: "You are not eligible to vote."
-    End the program.
+- If age is 18 or older, display: "You are eligible to vote"
+  
+- If age is less than 18, display: "You are not eligible to vote"
+  
+- End the program.
+
 
 
 ✔ **Pseudocode** 
@@ -79,10 +83,10 @@ A program asks the user to enter their age.
 
  program takes student marks (0–100).
 
-    90 and above → Grade A
-    75–89 → Grade B
-    50–74 → Grade C
-    Below 50 → Fail
+- 90 and above → Grade A
+- 75–89 → Grade B
+- 50–74 → Grade C
+- Below 50 → Fail
 
 ✔ **Pseudocode** 
 
@@ -116,10 +120,11 @@ A program that:
 
 A program that:
 
-    Takes A, B, C as inputs
-    Finds the largest
-    Displays result
-    Ends program
+- Takes A, B, C as inputs  
+- Finds the largest  
+- Displays result  
+- Ends program
+
 
 ✔ Flowchart
 
