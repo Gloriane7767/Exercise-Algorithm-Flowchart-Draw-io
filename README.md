@@ -24,9 +24,12 @@ A program that:
         PRINT "Total sum = ", total
     END
 
+
+✔ **Flowchart**
+
 ![Alt text](images/Diagram2.drawio.png)
 
-## Exercise 3
+## Exercise 4
 
 A program asks the user to enter their age.
 
@@ -51,9 +54,36 @@ A program asks the user to enter their age.
 
 ![Alt text](images/Diagram3.drawio.png)
 
+## Exercise 3
 
+ program takes student marks (0–100).
+
+    90 and above → Grade A
+    75–89 → Grade B
+    50–74 → Grade C
+    Below 50 → Fail
+
+✔ **Pseudocode** 
+
+    START
+        INPUT marks
+        IF marks >= 90 THEN
+            PRINT "Grade A"
+        ELSE IF marks >= 75 THEN
+            PRINT "Grade B"
+        ELSE IF marks >= 50 THEN
+            PRINT "Grade C"
+        ELSE
+            PRINT "Fail"
+        ENDIF
+    END
+
+✔ **Flowchart**
 
 ![Alt text](Diagram4.drawio.png)
+
+
+
 
 ![Alt text](images/Diagram5.drawio.png)
 
